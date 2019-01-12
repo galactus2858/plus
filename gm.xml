@@ -1,0 +1,34 @@
+
+<dir>
+      <title>TMDB Now Playing</title>
+      <tmdb>movies/now_playing</tmdb>
+</dir>
+  
+<dir>
+<title>Movie Years</title>
+<link>https://raw.githubusercontent.com/momoney12/run/master/tmdbyear2.xml</link>
+</dir>
+ <dir>
+        <title>Action packed</title>
+        <tmdb>list/https://www.themoviedb.org/list/99134</tmdb>
+        <thumbnail></thumbnail>
+        <fanart></fanart>
+</dir>
+  <dir>
+        <title>My action</title>
+        <tmdb>list/https://www.themoviedb.org/list/99454</tmdb>
+        <thumbnail></thumbnail>
+        <fanart></fanart>
+</dir> 
+<dir>
+        <title>Action Movies</title>
+        <tmdb>list/https://www.themoviedb.org/list/47583</tmdb>
+        <thumbnail></thumbnail>
+        <fanart></fanart>
+</dir> 
+<dir>
+        <title>New Movies</title>
+        <tmdb>list/https://www.themoviedb.org/list/97791</tmdb>
+        <thumbnail></thumbnail>
+        <fanart></fanart>
+</dir> 
