@@ -1,23 +1,14 @@
-<dir>
-      <title>Heist Movies</title>
-      <tmdb>list/https://www.themoviedb.org/list/62620</tmdb>
-      <thumbnail></thumbnail>
-      <fanart></fanart>
-</dir>
+
  <dir>
-      <title>Heist Movies 2</title>
+      <title>Heist Movies </title>
       <tmdb>list/https://www.themoviedb.org/list/102152</tmdb>
       <thumbnail></thumbnail>
       <fanart></fanart>
 </dir>
  
+
  <dir>
-<title>Gangsta</title>
-<tmdb>list/51623</tmdb>
-<thumbnail></thumbnail>
-</dir>
- <dir>
-<title>Gangsta 2</title>
+<title>Gangsta </title>
 <tmdb>list/102022</tmdb>
 <thumbnail></thumbnail>
 </dir>
@@ -45,26 +36,16 @@
 <title>lawyer and court movies/courtroom drama movies </title>
 <tmdb>list/64621</tmdb>
 </dir>
+
 <dir>
-        <title>hostage and kidnap</title>
-        <tmdb>list/63739</tmdb>
-        <thumbnail></thumbnail>
-        <fanart></fanart>
-</dir> 
-<dir>
-        <title>hostage and kidnap 2</title>
+        <title>hostage and kidnap </title>
         <tmdb>list/102219</tmdb>
         <thumbnail></thumbnail>
         <fanart></fanart>
 </dir> 
+
 <dir>
-        <title>assassin </title>
-        <tmdb>list/63741</tmdb>
-        <thumbnail></thumbnail>
-        <fanart></fanart>
-</dir> 
-<dir>
-        <title>assassin 2 </title>
+        <title>assassin  </title>
         <tmdb>list/90040</tmdb>
         <thumbnail></thumbnail>
         <fanart></fanart>
