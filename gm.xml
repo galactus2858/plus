@@ -41,38 +41,29 @@
    <title>Beast</title>
    <link>https://raw.githubusercontent.com/galactus2858/plus/master/t%20beast.xml</link>
 </dir>
-
+<dir>
+   <title>criminal</title>
+   <link>https://raw.githubusercontent.com/galactus2858/plus/master/criminal.xml</link>
+</dir>
 <dir>
    <title>Mythology</title>
    <link>https://raw.githubusercontent.com/galactus2858/plus/master/t%20mythology.xml</link>
 </dir>
 <dir>
-        <title></title>
-        <tmdb>list/https://www.themoviedb.org/list/90040</tmdb>
-        <thumbnail></thumbnail>
-        <fanart></fanart>
+   <title>sports</title>
+   <link>https://raw.githubusercontent.com/galactus2858/plus/master/t%20sports.xml</link>
 </dir>
+
 <dir>
         <title>Assassin movies</title>
         <tmdb>list/https://www.themoviedb.org/list/47583</tmdb>
         <thumbnail></thumbnail>
         <fanart></fanart>
 </dir>
-<dir>
-        <title>Gangster movies</title>
-        <tmdb>list/https://www.themoviedb.org/list/102022</tmdb>
-        <thumbnail></thumbnail>
-        <fanart></fanart>
-</dir>
+
 <dir>
         <title>Horror movies</title>
         <tmdb>list/https://www.themoviedb.org/list/102276</tmdb>
-        <thumbnail></thumbnail>
-        <fanart></fanart>
-</dir>
-<dir>
-        <title>Heist movies</title>
-        <tmdb>list/https://www.themoviedb.org/list/102152</tmdb>
         <thumbnail></thumbnail>
         <fanart></fanart>
 </dir>
