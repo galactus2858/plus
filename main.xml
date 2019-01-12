@@ -15,7 +15,7 @@
 </dir>
 
 <dir>
-   <title>actors and actess</title>
+   <title>Actors and Actess</title>
    <link>https://raw.githubusercontent.com/galactus2858/plus/master/actors%20and%20actess.xml</link>
 </dir>
 
@@ -31,10 +31,6 @@
     <link>https://raw.githubusercontent.com/ontop12/tom/master/247-tv%20(1).xml</link>
   </dir>
 </xml>
-<dir>
-<title>Search</title>
-<tmdb>search</tmdb>
-</dir>
 
 </xml>
 <plugin>

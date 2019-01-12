@@ -1,6 +1,6 @@
 <dir>
         <title>Dc/Marval</title>
-        <tmdb>list/https://www.themoviedb.org/list/65093</tmdb>
+        <tmdb>list/https://www.themoviedb.org/list/97703</tmdb>
         <thumbnail></thumbnail>
         <fanart></fanart>
 </dir>
@@ -21,7 +21,10 @@
 <title>IMDB dc/mrval</title>
 <imdburl>list/http://www.imdb.com/list/ls021993452/</imdburl>
 </dir>
-
+<dir>
+<title>animes tv</title>
+<tmdb>list/https://www.themoviedb.org/list/97705</tmdb>
+</dir>
 <dir>
 <title>Avengers Collection</title>
 <tmdb>collection/86311</tmdb>
@@ -104,10 +107,6 @@
 <fanart>http://image.tmdb.org/t/p/original/Awy2ye1yJ75ukpDP0qtOx0r7Eng.jpg</fanart>
 </dir>
 
-<dir>
-<title>animes tv</title>
-<tmdb>list/https://www.themoviedb.org/list/47315</tmdb>
-</dir>
 <dir>
 <title>Batman: The Dark Knight Returns Collection (2012-2013)</title>
 <tmdb>collection/https://www.themoviedb.org/collection/248534-batman-the-dark-knight-returns-collection</tmdb>

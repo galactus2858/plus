@@ -43,16 +43,6 @@
 <title>Western</title>
 <tmdb>list/https://www.themoviedb.org/list/97972</tmdb>
 </dir>
-<dir>
-<title>Animes tv</title>
-<tmdb>list/https://www.themoviedb.org/list/47315</tmdb>
-</dir>
-
-<dir>
-  <title>TV Game Shows</title>
-  <tmdb>list/https://www.themoviedb.org/list/51238</tmdb>
-</dir>
-
 
 <dir>
   <title>Action & Adventure</title>
